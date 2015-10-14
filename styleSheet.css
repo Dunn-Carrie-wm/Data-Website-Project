@@ -1,0 +1,42 @@
+#container {
+    width: 1200px;
+    height: 1500px;
+    background-image: url("http://cdn.playbuzz.com/cdn/4bd619d6-9c1e-46d9-8921-929e75d5a10c/83d0101a-0add-4574-8b84-307a109864d0.jpg");
+
+}
+
+#header {
+    width: 1200px;
+    height: 150px;
+    color: white;
+}
+
+#nav{
+
+    width:200px;
+    height:1400px;
+    float: left;
+    color: white;
+
+}
+#text{
+
+    width: 1000px;
+    height: 500px;
+}
+
+#graph{
+
+    width: 1000px;
+    height: 900px;
+    float: right;
+
+}
+
+#List{
+    text-align: left;
+}
+div{
+    overflow: hidden;
+
+}
